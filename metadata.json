@@ -1,0 +1,6 @@
+{
+  "name": "Zepto - 10 Min Grocery Delivery",
+  "description": "A high-fidelity replica of Zepto landing page and instant grocery delivery frontend experience with location picker, instant search, category navigation, Zepto Cafe, product carousels, and interactive cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
